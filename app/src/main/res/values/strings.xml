@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Dynamic ListView Colour List</string>
+    <string name="edit">Enter your colour</string>
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="enter">Enter your Colour</string>
+</resources>
